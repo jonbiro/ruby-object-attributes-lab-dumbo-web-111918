@@ -13,6 +13,6 @@ def job
   @job
 end
 
-def 
+
 
 end
